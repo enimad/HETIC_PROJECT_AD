@@ -1,3 +1,5 @@
 Ceci est un test.
 
 Ceci est pour le recommit.
+
+Ceci est la bonne version.
