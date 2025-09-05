@@ -3,3 +3,5 @@
 Hello World !
 
 Ceci est mon projet Git.
+
+Le pull est un fetch + un checkout !
